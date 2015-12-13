@@ -1,0 +1,10 @@
+{
+  "name": "assembler-light",
+  "version": "0.0.1",
+  "title": "Assembler Light",
+  "author": "James Aguilar",
+  "contact": "aguilar.james@gmail.com",
+  "homepage": "http://github.com/jaguilar",
+  "description": "Assemblers have a light turned on when they are working.",
+  "dependencies": ["base >= 0.12.0"]
+}
