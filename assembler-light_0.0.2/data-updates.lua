@@ -13,7 +13,7 @@ data.raw["assembling-machine"]["assembling-machine-1"].working_visualisations =
       height = 12,
       frame_count = 16,
       line_length = 8,
-      shift = { .50, 1.0 }
+      shift = { .75, 1.15 }
     },
   }
 };
@@ -32,7 +32,7 @@ data.raw["assembling-machine"]["assembling-machine-2"].working_visualisations =
       height = 12,
       frame_count = 16,
       line_length = 8,
-      shift = { .50, 1.0 }
+      shift = { .75, 1.15 }
     },
   }
 };
@@ -51,7 +51,7 @@ data.raw["assembling-machine"]["assembling-machine-3"].working_visualisations =
       height = 12,
       frame_count = 16,
       line_length = 8,
-      shift = { .50, 1.0 }
+      shift = { .75, 1.15 }
     },
   }
 };
